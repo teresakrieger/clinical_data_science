@@ -8,7 +8,7 @@
 | Day 1 | [RNA sequencing analysis][1]         |
 | Day 2 | [Deep learning for chest X-rays][2]  |
 
-[1]: https://colab.research.google.com/github/teresakrieger/clinical_data_science/blob/master/Day_1.ipynb
+[1]: https://colab.research.google.com/github/teresakrieger/clinical_data_science/master/Day_1.ipynb
 [2]: https://colab.research.google.com/github/teresakrieger/clinical_data_science/blob/master/Day_2.ipynb
 
 
